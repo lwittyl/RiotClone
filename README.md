@@ -1,6 +1,6 @@
 # 😽 Riot 사이트 클론코딩
 
-
+<img width="1440" alt="Screenshot 2024-08-18 at 12 51 21 PM" src="https://github.com/user-attachments/assets/3cd53691-b361-4c94-bccd-e3d7b4459ba4">
 
 ### 📆 개발 인원 및 기간
 - 1인 개발 : 작업기간: 3일
